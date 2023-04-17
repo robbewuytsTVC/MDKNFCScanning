@@ -1,0 +1,10 @@
+{
+  "AppDisplayName": "EquipmentNFCDEV",
+  "AppName": "EquipmentNFCDEV",
+  "AppVersion": "1.0.2",
+  "BundleID": "nfcreader.dev",
+  "Externals": [],
+  "NSPlugins": [],
+  "NPMPlugins": [],
+  "UrlScheme": "eequipnfcDEV"
+}
